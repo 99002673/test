@@ -1,0 +1,10 @@
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\BankingSystemMainMethod\bin\Debug\BankingSystemMainMethod.exe.config
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\BankingSystemMainMethod\bin\Debug\BankingSystemMainMethod.exe
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\BankingSystemMainMethod\bin\Debug\BankingSystemMainMethod.pdb
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\BankingSystemMainMethod\bin\Debug\Banking_System.dll
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\BankingSystemMainMethod\bin\Debug\Banking_System.pdb
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\BankingSystemMainMethod\obj\Debug\BankingSystemMainMethod.csprojAssemblyReference.cache
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\BankingSystemMainMethod\obj\Debug\BankingSystemMainMethod.csproj.CoreCompileInputs.cache
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\BankingSystemMainMethod\obj\Debug\BankingSystemMainMethod.csproj.CopyComplete
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\BankingSystemMainMethod\obj\Debug\BankingSystemMainMethod.exe
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\BankingSystemMainMethod\obj\Debug\BankingSystemMainMethod.pdb

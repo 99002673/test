@@ -1,0 +1,6 @@
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\Banking_System\bin\Debug\Banking_System.dll
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\Banking_System\bin\Debug\Banking_System.pdb
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\Banking_System\obj\Debug\Banking_System.csproj.CoreCompileInputs.cache
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\Banking_System\obj\Debug\Banking_System.dll
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\Banking_System\obj\Debug\Banking_System.pdb
+C:\Users\sachi\OneDrive\Desktop\C# Training\Banking_System\Banking_System\obj\Debug\Banking_System.csprojAssemblyReference.cache
